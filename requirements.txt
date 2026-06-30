@@ -25,7 +25,6 @@ pydantic==2.13.4
 pydantic_core==2.46.4
 pyTelegramBotAPI==4.34.0
 python-dotenv==1.2.2
-pywin32==312
 requests==2.34.2
 SQLAlchemy==2.0.51
 typing-inspection==0.4.2
